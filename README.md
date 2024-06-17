@@ -1,4 +1,4 @@
 # bhavesh
 My first repository to understand github.
 <br>
-Author - S.Bhavesh Reddy
+Author - S.Bhavesh Reddy(student)
